@@ -1,0 +1,5 @@
+requests
+selenium
+lxml
+selenium-stealth
+webdriver-manager
